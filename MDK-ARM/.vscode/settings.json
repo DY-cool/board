@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ros_shareware.h": "c",
+        "utask.h": "c",
+        "kinematics_4wd.h": "c",
+        "velocitycontrol.h": "c",
+        "encoder.h": "c",
+        "pid.h": "c",
+        "motor.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
